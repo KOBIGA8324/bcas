@@ -2,3 +2,5 @@ nokia
 apple
 samsung
 LG
+huawai
+iphone
